@@ -8,3 +8,6 @@ Advanced Formulas & Functions in Excel
 - Making use of pivot tables and charts.
 - Analyse data; use descriptive statistics.
 - Inverse Linear Regression.
+
+## LinkedIn:
+https://www.linkedin.com/in/sheik-ashanur-rahman-28a7333a/
